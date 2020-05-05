@@ -1,22 +1,30 @@
-Este es un set de pinceles para Azpainter2 hecho por mí. De momento, unicamente, incluyo configuraciones básicas y pinceles para Lineart y Sketching.
-En el futuro espero extenderlo con pinceles para digital painting, puntas(shapes) y texturas. 
+Este es un set de pinceles para Azpainter2 hecho por mí. De momento, únicamente, incluyo configuraciones básicas y pinceles para Lineart y Sketching.
+En el futuro espero extenderlo con pinceles para digital painting, puntas(shapes) y texturas.
 
-Tambien agrego a este repositorio algunos dotfiles y assets esteticos: un tema para el gestor de ventanas (xfwm/xfce), dos esquemas de color para azpainter (mthemeeditor), dos sets de iconos claros para la interfaz del programa y sus fuentes para que puedas personalizarlos por tu cuenta. Estos assets estan pensado para mantener la congruencia con temas gtk oscuros basados en Arc theme (Qogir) o Materia theme (Simply Circles). 
+También agrego a este repositorio algunos dotfiles y assets estéticos: un tema para el gestor de ventanas (xfwm/xfce), dos esquemas de color para azpainter (mthemeeditor), dos sets de iconos claros para la interfaz del programa y sus fuentes para que puedas personalizarlos por tu cuenta. Estos assets están pensado para mantener la congruencia con temas gtk oscuros basados en Arc theme (Qogir) o Materia theme (Simply Circles).
 
-El es_XX no es completo ni final, necesita -algunas- muchas revisiones puntuales, cambia mucho con respesto al oficial incluyendo los atajos de menu, tengo que desacojonsejar su uso, para más informacion sobre mis objetivo lea el archivo CREDITS adjunto.
+El es_XX no es completo ni final, necesita -algunas- muchas revisiones puntuales, cambia mucho con respecto al oficial incluyendo los atajos de menú, tengo que desaconsejar su uso, para más información sobre mis objetivo lea el archivo CREDITS adjunto.
 
 ![](src/examples/00.Hard.jpg)
+
 ![](src/examples/02.Light.jpg)
+
 ![](src/examples/01.Quick.jpg)  
+
 ![](src/examples/03.Irregular.jpg)
 
 ![](src/examples/04.Graphite.jpg)
+
 ![](src/examples/05.Carbon.jpg)  
+
 ![](src/examples/06.Sponge.jpg)
+
 ![](src/examples/09.Tiza.jpg)
 
-![](src/examples/07.ColorMark.jpg)  
+![](src/examples/07.ColorMark.jpg) 
+ 
 ![](src/examples/08.NoiseMark.jpg)
+
 ![](src/examples/10.Crayon.jpg)
 
 # Instrucciones
@@ -77,10 +85,10 @@ Mi recomendacion es:
 ```
 
 ---
-###Screeenshots
+### Screeenshots
 
 <details>
-  <summary>Capturas</summary>
+  <summary>Dark Theme</summary>
 
 ![Screenshot 1, Dark](http://i.imgur.com/p551IRB.png)
 
