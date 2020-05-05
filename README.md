@@ -77,12 +77,12 @@ Mi recomendacion es:
 ```
 
 ---
+###Screeenshots
+
 <details>
   <summary>Capturas</summary>
 
-![Screeenshot 1, dark](http://azsky2.html.xdomain.jp/soft/img/azpainter.png)
-
-![Screenshot 2, Dark](http://i.imgur.com/p551IRB.png)
+![Screenshot 1, Dark](http://i.imgur.com/p551IRB.png)
 
 </details>
 
