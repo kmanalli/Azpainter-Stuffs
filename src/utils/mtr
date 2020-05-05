@@ -1,0 +1,16 @@
+#! /bin/bash
+
+if [ -d ../../tr ]; then
+    echo
+    else
+        mkdir ../../tr
+fi
+
+./mtrconv ../translations/es_MX ../../tr/es_MX.mtr
+
+# Prueva
+azpainter --trfile ../tr/es_LAT.mtr
+
+# Instalación
+# mv -i ../../tr /usr/share/azpainter/tr
+# cp /usr/local/share/azpainter/tr/es_MX.mtr /usr/share/azpainter/tr/es_LAT.mtr

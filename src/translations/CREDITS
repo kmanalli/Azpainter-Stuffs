@@ -1,0 +1,17 @@
+Esta versión está basada parcialmente en es_ES de David con una comparación y revisión constante de la version original JP de Azel, y la versión EN de Alexey Dokuchaev y Eugeniy Fedirets.
+Esta traducción es_MX tiene como objetivo conservar la congruencia con la versión en español de AzDrawing de 2011 hecha por Alex Dukal, utilizar términos "estándar" en otras herramientas opensource, y remplazar algunas descripciones literales por otras equivalentes que sean más congruentes con la función y/o herramienta que describen en español.
+
+AzPainter 2
+    jp
+    <azelpg@gmail.com> 2020
+
+    en
+    Alexey Dokuchaev <danfe@nsu.ru>, 2017-2018
+    Eugeniy Fedirets <evgeniy_fedirets@ukr.net>, 2017-2018
+
+    es_ES
+    David
+
+AzDrawing 2
+    lang_ES
+    Alex Dukal, 2011.
