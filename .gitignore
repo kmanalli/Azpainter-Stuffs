@@ -1,10 +1,14 @@
 main-2.bak
-src/examples/ex.apd
+src/brushes/examples/ex.apd
 src/translations/.lang_es.txt
 src/translations/.en_US
 src/translations/.ja
 src/temp
+themes/bit
+textures/community
 shapes/community
 shapes/textures
-textures/community
-themes/bit
+shapes/kManalli's Watercolor Candy [Base].710px.png
+shapes/kManalli's Blood Stroke [Base].768px.png
+shapes/JK1A.apd
+shapes/pl.png
